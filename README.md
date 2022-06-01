@@ -1,2 +1,0 @@
-# tiagophyton7
-\o/
