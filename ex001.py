@@ -27,4 +27,4 @@ print ('legal você gosta do', futebol)
 
 texto = input ('legal vi que você ' +nome+ ' gosta da ' +nome2+ ' sabemos que ela gosta de algumas coisas como a cor ' +cor+ ' e que gosta de ' +hoobie+ ' certo?')
 
-print ('parabens')
+print ('parabens vc completou o questionario')
