@@ -6,5 +6,3 @@ Valor2 = input ('coloque o 2 valor ')
 soma = (int(Valor1)+int(Valor2))
 print ('O resultado é:',soma)
 
-
-            t
