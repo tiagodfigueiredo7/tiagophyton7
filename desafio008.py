@@ -1,7 +1,3 @@
-import cmath
-from datetime import datetime
-
-
 metro = int ( input ("quantos metros tem um campo de futebol?"))     
 print ('o campo tem', metro, end='')
 print (' metros')
