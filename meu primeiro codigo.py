@@ -10,6 +10,6 @@ print ('Porém se resolver pagar em 12x, pagara R$ {:.2f} a mais por mês, R$ {:
 print ('')
 total1 = (valor-desconto)
 total2 = (valor + jurosano)
-print ('Você tinha um saldo de R$ {:.2f} e comprando {} ficou com R$ {:.2f} no final se comprou a vista' .format (dinheiro, item, (dinheiro-total1)))
+print ('Você tinha um saldo de R$ {:.2f} e comprando {} ficou com R$ {:.2f} no final se comprou a vista.' .format (dinheiro, item, (dinheiro-total1)))
 print ('mas...')
-print ('Você tinha um saldo de R$ {:.2f} e comprando {} ficou com R$ {:.2f} no final se comprou a em 12x ' .format (dinheiro, item, (dinheiro-total2)))
+print ('Você tinha um saldo de R$ {:.2f} e comprando {} ficou com R$ {:.2f} no final se comprou a em 12x. ' .format (dinheiro, item, (dinheiro-total2)))
