@@ -26,9 +26,9 @@ else:
         if media_final > 6.9:
             print ('Parabéns {}, Sua Nota foi boa {} e Você passou!'.format (nome, media))
         elif media_final == 6:
-            print ('Sinto muito {} , você é mto Burro e ficou de recuperação com a media de : {:1.f}'.format (nome, media_final))
+            print ('Sinto muito {} , você é mto Burro e ficou de recuperação com a media de : {}'.format (nome, media))
         elif media_final < 6:
-            print ('Vai troxa, não estudou né? Quem mandou....Você repetiu com a media de : {:1.f} !!! '.format (media))
+            print ('Vai troxa, não estudou né? Quem mandou....Você repetiu com a media de : {} !!! '.format (media))
 
     elif  ano_escolar == 9:
         if media_final > 6.9: 
