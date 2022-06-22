@@ -34,5 +34,5 @@ else:
         if media_final > 6.9: 
             print ('Parabéns {}, sua nota foi {:.1f} ! Vocẽ passou !! ' .format(nome, media))
         if media_final < 7:
-            print ('Sinto Muito {}, sua nota foi {:.1f} e não aceitamos pessoas burras aqui !' .format(nome, media))
+            print ('Sinto Muito {}, sua nota foi {:.1f} aqui não exise recuperação, você repetiu !' .format(nome, media))
                    
