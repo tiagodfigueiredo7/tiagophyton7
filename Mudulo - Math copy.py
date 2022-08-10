@@ -17,7 +17,7 @@ raiz = math.sqrt (num)
 print ('a raiz do numero {}, é igual a {} , !!!' .format(num, math.floor(raiz)))
 
 
-#math  = matematica
+#math  = matematicaa
 #math.ceil = arredonda pra cima 
 #math.floor = arredonda pra baixo
 #math.trunc = tranca o numero 
