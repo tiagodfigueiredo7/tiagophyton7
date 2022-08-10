@@ -9,7 +9,7 @@ print ("oi")
 
 
 
-# aqui em vez de usar print em cada linha, podemos colocar """ e """ para ele imprimir o texto inteiro 
+# aqui em vez de usar print em cada linha, podemos colocar """ e """ para ele imprimir o texto inteiro .
 print ("""Profissional com mais de 15 anos de experiência na área de Tecnologia da Informação em grandes empresas do
 mercado. Sólidos conhecimentos em desenvolvimento de soluções tecnológicas interligadas as necessidades
 estratégicas da empresa com foco na garantia de ambiente de alta disponibilidade. Responsável por infraestrutura
