@@ -10,7 +10,7 @@ print ('O angulo de {} tem a tangente de {}'.format(angulo, tangente))
 
 
 
-# aqui usei o from math e o import para radians, sin , cos e tan, pra ser outra maneira de executar
+# aqui usei o from math e o import para radians, sin , cos e tan, pra ser outra maneira de executar!
 
 from math import radians, sin, cos, tan
 angulo = float(input('Digite o angulo que vc deseja '))
